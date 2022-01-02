@@ -1,0 +1,19 @@
+[[package]]
+name = "undecorated"
+version = "0.3.0"
+description = "Undecorate python functions, methods or classes"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "6e2a6d8b23e2cd7dc56be6e85fc0ae7839d9acce2f8d509805c6241d4e7ad6f7"
+
+[metadata.files]
+undecorated = [
+    {file = "undecorated-0.3.0-py2-none-any.whl", hash = "sha256:c627ab442be70240f86bc54f57efae1194a242ee8f051befaf7760f51fb44f22"},
+    {file = "undecorated-0.3.0-py3-none-any.whl", hash = "sha256:d668d6c076f05b0bdf3bc399af9541f8b9afa4fad653ddec4afa2eca606162f9"},
+    {file = "undecorated-0.3.0.tar.gz", hash = "sha256:83eca0a85e6e62ac8bc6bf938c8a70003e58ef084932d5930d7699e5759a3a3e"},
+]
